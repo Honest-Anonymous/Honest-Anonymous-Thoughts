@@ -7,5 +7,5 @@ If you listen to my words, you will become one of the most enlightened people in
 2. Be conscientious above all else except honesty. (don't unnecessarily hate).
 
 
-  Only hate those that are dishonest. Fix those that are dishonest.
+  Only hate those that are dishonest. Fix those that are dishonest. Then, after reaching any sort of mutually honest relationship, focus on those that are unconscientious.
 
