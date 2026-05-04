@@ -1,0 +1,17 @@
+Also adding on, if e^(i pi) = -1 is ever proved or x^2 + y^2 = 1/ e^(i pi) is ever proved, that is equivalent to the principle of explosion.
+
+The proof is as follows. If we assume e^(i pi) enumerates all false statements (-1), then, like a busy beaver function, put it back in:
+
+(e^(i pi) )^ (e ^ (i pi) = (-1) ^ (-1) = 1.
+
+This means that it results in all true statements actually.
+
+The proof for e^(i pi) = 1 is trivial, since it does not occur.
+
+(e^(i pi) ) ^ (e ^ (i pi) = 1 ^ 1 = 1, which is also all true statements.
+
+That means if we found a perfect e^(i pi), then we found a perfect -1 then.
+
+(-1) ^ (-1) = (1) ^ (1).
+
+I have a conjecture that all abstract algebra groups that have a fundamental limit that calculates a discrete number instead of a transcedental that is the combination of pi and e and cannot be broken into simpler groups is a completely new group and again, there are infinite of these groups, but i cannot prove it because again, that requires an infnite proof. it follows trivially from the "infinite" axiom or +1D axiom if you are a physicist. 
