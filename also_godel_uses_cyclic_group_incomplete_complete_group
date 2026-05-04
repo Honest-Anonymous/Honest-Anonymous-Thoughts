@@ -1,0 +1,36 @@
+to prove my theory on abstract algebra/algebraic geometry and boolean algebra/calculus depending on each other, i will point out a fundamental assumption that godel makes.
+
+godel's assumption is this:
+
+there are infinitely prime numbers.
+
+this is the same as the cyclic group's symmetries.
+
+if there are a finite amount of prime numbers, then how can it be guaranteed that a godel number can exist?
+
+if there are an infinite amount of primes, then it is guaranteed that a godel number can exist.
+
+However, to define a prime number, you already need the multiplicative identity since it is defined by how many factors a number has.
+
+However, to gain such an operator (multiplication), you need to use repeated addition.
+
+However, as we have seen in my paper, it is impossible to derive anything in a world with just the additive identity and nothing else.
+
+that would result in just countable boring infinity:
+0
+00
+000
+0000
+00000
+000000
+etc.
+of additive zeroes.
+we need 0 and 1, and most importantly, we need to use from both theories. my iteration of e does this: it still assumes that 1! and 2! and 3! etc. are well defined, and then calculates e, and then plugs it back in.
+
+that would be equal to infinity^2, which, at least in the complex plane where it is defined by re^(x), again, self circular, everything can be derived.
+
+also i made a mistake when using my formula for e:
+
+summation n=ZERO to n=INFINITY of e^( ( (1/ln(n))''' or d^3/dx^3 whatever notation) = e^n.
+
+Again, it is self circular and equivalent basically to godel, which is why e^x, specifically on complex  not equal to i pi, is the enumeration of all statements, or the complex plane. again, it is self-referencial because to create e, you need addition, infinity, zero, and applying the reciprocal (think multiplication inverse, 2) of the function three times which is fundamentally broken.
