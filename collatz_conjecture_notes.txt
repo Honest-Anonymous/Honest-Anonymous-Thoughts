@@ -1,0 +1,39 @@
+i have a theory about the collatz conjecture.
+
+the collatz conjecture is equivalent to the halting problem. let's use from both fields:
+
+  again
+for a given loop x:
+while (x == 4, 2, 1, or infinity, impossible to mathematically define btw) {
+ if (x % 2 == 0) then x / 2
+ if (x % 2 == 1) then 3x + 1
+  }
+if e^(i pi ) is when it halts or goes to infinity, you are computing e^(i pi ) = 1 = infinity.
+  this is an impossible class of problems!
+consider this:
+  Let the transcendetal number pi be a well-defined finite length x. apply 3x+1 to pi. Feed the base 2 digits of pi or e essentially into this function:
+3.141592653589...
+  subtract 3. wait, that's easy right?
+  0.141592653589...
+  that's not in base 2 however which is how all of our algorithms work! if we assume that there is a second number, base 3, you have proved hodge theory! however, base 2 is what all machines (turing machines) ultimately are in our finite classical world.
+  11001001000011111101101010100010001000010110100011...
+  or
+  ...11001001000011111101101010100010001000010110100011
+  the decimal is either .11001001000011111101101010100010001000010110100011 or it is at 11001001000011111101101010100010001000010110100011. both are equivalent to each other, since 0 = infinity if hodge conjecture is true.
+  but that's the halting problem fundamentally! you cannot calculate either of these values. it just doesn't make any sense. you cannot prove hodge with purely algebraic and you cannot prove hodge with purely geometric. this is equivalent to proving hodge if both turn out to be the same (ring 0 and ring infinity = ring n-finite)
+  3x+1 asks you basically: after adding times base 2 10_2 and adding it with the original, you ask:
+after putting in the transcendentals (e or pi), what is the last digit, 0 or 1?
+  you cannot do this! CANNOT!
+  i suggest someone runs collatz conjecture in base 2. what is the ratio between 0 and 1? isn't that the amount of true statements and amount of false statements taken to the infinity?
+  the calculation of e gives the same thing, since defining e and getting all the base 2 digits of e:
+.10101101111110000101
+10101101111110000101.
+  in the limit, e and pi, my conjecture that is unprovable, e and pi are negations of each other in base 2! that's what defines e^(i pi), if e = 0 and pi = 1, for example 0^(i 1) = 0^i = -1 = 1, or e = 1 and pi =0, then 1^(i 0) = 1 = -1. IMPOSSIBLE! i does not equal 1=-1=every real number or every set of groups! ALGEBRAIC GEOMETRY BABY!
+  twin prime might be approachable this way too!
+  the collatz conjecture is equivalent to halting whether pi or e is calculable!
+  terrence tao already proved this: it is ln(ln(ln(ln(ln(ln(ln(x), which rapidly approaches 0. in order to have a consistent group, which the collatz holds for all groups, then the ln's must end and the decidability of the actually value of e and the fundamental functions derivative and integral can actually be converted into each other (which is a complete group)! 
+  this is the halting problem!
+
+this is why ramanujan's infinite fractions work for sqrt(2) and sqrt(3) and so on. he can create infinite addition and infinite subtraction. however, to do anything that's actually useful, one must use the combination of them, and the infinitive of them results in the calculation of e and pi and the transcedentals which creates e^(i pi ) and if it is proven e and pi are calculable with addition/subtraction operators you get e^(i pi) = e^(i pi ) = 1 = -1!!!!!!!!
+
+terrece tao's proof is as close as you can get! if you take the limit even further to infinity, you literally solve the hodge conjecture and assume hodge theory is correct!
