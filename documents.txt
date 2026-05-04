@@ -1,0 +1,333 @@
+An amateur's view on the future of AI and computing: the study of self-replication and machine learning combined with neurobiology and quantum computing. Previous paper stated in less vulgar language too (on axioms) Actually I elaborated much more with a clearer mind. A lot more. Actually nvm this is a separate paper.
+
+Abstract
+
+Previous paper summary
+
+I hope many of you have understood why mathematics is quite incomplete with my previous paper. To sum up, I argued that the additive identity was an inverse symmetry of the axiom of choice, so no system that uses the additive identity, which by symmetry, also includes the axiom of choice, can prove its own decidability. I tried to prove that from the collatz conjecture, though I am unrefined and non-rigorous because I am simply an amateur mathematician. This separates mathematics into two worlds: the finite ring-n world, or group theory, which states infinity doesn't exist but most importantly ZERO doesn't exist, which is the same thing, and the ring 0 or ring infinity world, where concepts such as infinite 0 and infinite infinity and extremely continuous finite curves consisting of "points" with length ZERO exist. 
+
+An interesting point is that assuming ring 0 or ring infinity, the derivative of itself in calculus, which uses compactness described by the limit, and the derivative uses lim h--> 0 which is equivalent to lim u --> infinity if we assume substitution by h = 1/u can exist, introduces a fundamentally transcendental constant named e, or euler's number. I also made a controversial claim that the planck length is proof that our universe is a simulation, since the blackbody radiation problem or the UV catastrophe does not exist (infinite energy in an infinitely small wave length). Fret not, because our definition of compactness can be fundamentally changed as well, which allows the inverse of the two fundamental functions, the derivative and the integral. 
+
+Another new controversial take or conjecture is that an infinite amount of functions can be made out of assuming epsilon > 0 via both integration and derivatives. I'm not sure if this is already a result in measure theory. Still, things like the error function have already been created. The exponential function was created from 2-3 (depending on the definition of iteration) from addition --> repeated addition = multiplication --> repeated multiplication = exponentiation. That figure of exactly three has bothered me. Again, the fundamental derivative function and its inverse, the integration function, and the assumption that it is possible to flip along x axis (y=0) and y axis (x=0) which can create the fundamental symmetry y=x and that creates y=1/x and y=-1/x^2 and y=1/x^3 which you can create y=x and y=-x^2 and y=x^3 by plugging each function in y=1/x, which again, is the derivative of ln(x), and if 1, 2, 3, 4, and the natural numbers exist, then they are not in the fundamental constant base e's language but also notice now y=x (which is also the inverse symmetry keep in mind) and y=x^2 etc. cross the origin once which is the creation of the universe or the big bang the origin (0,0) isn't that cool but I digress again. We need finite numbers (natural numbers) in order to enumerate the universe, so we can't have everything in base e. The existence of 0 base e and 1 base e would destroy the universe if it was calculated to arbitrarily INFINITE precision or ZERO error (reciprocals inverse symmetry group theory), so we must pursue such fruitless endeavors. We must calculate e in base 2, which would create our best busy beaver algorithm. This would also create our best AI program as a result.
+
+However, this is still the magnum opus of my mathematical career: finding the equivalence of ring 0 and ring infinity and also saying the ring finite-n is ultimately trying to compute 0 and infinity. We may never prove the riemann hypothesis for this reason (unprovable): it is equivalent to trying to find the decidability of the cyclic group. However, that should not stop us from trying to find more riemann zeroes. The riemann hypothesis may be an axiom just assuming that the cyclic group is decidable. Based on godel's proof, the riemann hypothesis is equivalent to saying that our system is consistent since it is a problem that boils down to the simple groups. 
+
+Our limits on how many primes in the natural language of our universe is the delta between the true value of e (unsolvable) and plancks constant in base e (we can never know the true delta too, experimentally speaking, but that shouldn't stop us from trying).
+
+0th axiom: There are statements. The fundamental force that governs this is either gravity or the strong nuclear force. I will say gravity for consistency, but this universe is not consistent with the 0th axiom. This is also another SI unit which is necessary, that is mass, or kg. You can also say that this is meters, or m. I will use meters (m) for convenience. This is also equivalent to the additive identity. (Symmetry of Covariance). Identity element: e * a = a * e = a. e is the identity.
+
+The problem is, this results in the principle of explosion. Simply stating that there are statements means we can do literally anything with these statements and there is no more work to be done. 
+
+This is 0.
+
+0, 00, 000, 0000, 00000, 000000, 0000000, etc. This is countable infinity.
+
+In other words:
+
+0 + a = 0 means the only thing is: 0 + 0 or 0 + 0 + 0, 0 + 0 + 0 + 0, and they are all obviously equal to each other. 0 = 0 + 0 = 0 + 0 + 0 = 0 + 0 + 0 + 0 = 0 + 0 + 0 + 0 + 0 and this is obviously the principle of explosion. No statement has any meaning, so all statements can be enumerated this way.
+
+However simultaneously countable infinity is uncountable infinity in this principle of explosion world. There is no structure. We cannot move a finite length since it is made up of infinite 0 operators. If we can move a finite length, that is the same thing as moving an infinite length. 0 + 0 + 0 + 0 + 0. This number line of "statements," therefore, is either infinitely long, or it simply doesn't exist, or both. This is essentially impossible and undecidable and simultaneously possible and decidable.
+
+The additive identity is also the same thing as the axiom of choice. They are negations or reciprocals of each other. If we can do 0, then we can do infinity. 
+
+Godel already proved this in his first proof, a system with formal arithmetic (i.e. something like boolean algebra which runs all our algorithms) will always have an unprovably true statement. Adding this statement as true will simply make this system still under formal arithmetic, which means there will be more unprovable statements, etc. etc. We must not have the additive identity in any formal system, yet we need the additive identity to be able to create any universe. If we pretend like the additive identity doesn't exist and we use the multiplicative identity, 1, then that then becomes the axiom of the universe and it leads to absolutely 0 (or now 1) work being done. 1 work being done mean 1 * 1  * 1 * 1 * 1 which in calculus is known as "indeterminate," which means more formal work needs to be done. It either reduces to the simple groups such as the natural numbers, or it reduces to the irrationals which are inverses of simple functions, or it reduces to e or pi, the transcendentals which are impossible to calculate completely accurately, or it diverges to infinity or 0, which are the same concept in a complete closured set.
+
+The SI unit that I chose to encode was meters. However, I actually said the fundamental SI unit was kg before. We use meters, however, to define spacetime. We live in a 3D + 1D universe, and kilograms, for some reason, are entirely absent. I will also state why this is yang-mills theory's ultimate collapse: that it pretends we can unify two forces (the weak and electromagnetic force) together. Unifying them together is equivalent to saying that quanta doesn't exist, or mass doesn't exist, falsity does not exist, kg does not exist, and that everything is simply impossible, really. really. REALLY. This is not in vain, however, because we can simply quantize gravity to the mass or energy level of the system attempted to study. We cannot quantize gravity to work for an INFINITE amount of mass, but we can quantize gravity to work for the OBSERVABLE size of the universe, which is also unknowable. This is the best system we can hope to achieve. Quantizing gravity to an infinite degree is impossible. Quantizing gravity to an observable degree is workable at the energy level attempted to be described. Quantizing further would be the study of black holes.
+
+Again, in a universe with only additive identities, or any identities really like the multiplicative identity, there is nothing more to be done. It is formally equivalent to the principal of explosion. Stating in set theory that all sets must be unique while also allowing the additive identity is simply a matter of a principle of explosion. Ring 0 and ring infinity are equivalent in this world. This is equivalent to the symmetry of covariance. We must therefore, define another symmetry.
+
+1st axiom: There is the negation of a statement. We commonly know this as true statements and false statements. (Symmetry of negation). It is known as the strong nuclear force in my opinion, but it can also be known as gravity in your universe. a * a^-1 = a^-1 * a = e.  This is also the negation of the SI unit, meters, which is going to be meters. Again, kg and meters are "separate but equal," just like finding the truth should be equal to finding the false ultimately.
+
+This gives our universe a little bit more feeling. In fact, it is actually quite good. However, there is a problem: we can't combine any of these operations together. That means we can still only have the identity function: 0 + a = 0. What happens if we put 1 as a, however? 0 + 1 = 0... that doesn't make any sense. We need to be able to combine 0 and 1 together.
+
+This is why the 0th axiom and the 1st axiom are not complete by themselves: they require a second axiom. This is also the concept of THREE axioms that I said in my previous paper, in more vulgar and un-understandable language (derstandable language because double negative? i digress). The second axiom is what allows us to do stuff.
+
+However, the combination of the 0th and 1st axiom is what I consider the axiom of god. There is a truth, and there is a false. Let there be statements is the same as let there be a truth and let there be a false and let us be able to combine them together. The combination of falsity and truism. That is the third (or 2nd) axiom.
+
+I will still enumerate the implications of this system. Again, this creates the SI unit of kg. Kg is simultaneously equal yet not equal to meters. Indeed, you can technically have a universe with kg^3, but that simultaneously describes nothing, since it warps our intuitive understanding of SI units. Yang mills, again, predicts massless photons, but massless photons can't exist without abandoning the photoelectric effect, which is what we see in nature. That would create infinite yet zero quantized gravity. We can only quantize gravity to the system we are studying, and our planck length, the smallest unit of action, is consistently not simultaneously infinite and simultaneously 0. I will go over time more in the third axiom, closure.
+
+In mathematical terms, this creates the y-axis. However, I will state that we do not live in a xy axis world because we still follow taylor's theorem. We actually just invented the complex numbers. However, again, the complex numbers cannot prove their consistency since they rely, at least in polar coordinates, as re^(x). r cannot be 0 or 1, x cannot be 0 or 1, and you cannot cross the axes as a result. Why? This is equivalent to the limit of analytic continuation: you cannot actually just say 0 and 1. We also cannot fundamentally compute e or pi, since that is reducible to the halting problem or the busy beaver problem. I will go more into depth in the closure axiom.
+
+Also, for the necessary advancement of mathematics, I think Einstein's field equations must fundamentally be written in the language of the complex numbers and be taught that way to a group of intelligent students. This is because without complex numbers and assuming x-axis and y-axis, you simply can create functions that are not analytic functions. In the complex plane, since it is again, defined by either polar coordinates (e^(i pi), THREE transcendental units + 1D which is enumerating all other functions closured which is impossible again since you can create infinite functions to analyze such as the error function and you can't even calculate the digits of e and pi really as you will see) or in electric engineering, boolean algebra (where you assume 0 and 1 and 2 and 3 and 4 exist and you can just do normal algebra on a 2D plane).
+
+2nd axiom: There is the combination of statements. We commonly know this as addition and subtraction, or the associative property of addition. This is not an SI unit, but it allows us to combine SI units together. For example kg^2 * m, kg * m^3, kg^5 * m, m^15819831 *kg, none of which of these are calculable in our universe (hint hint). In group theory, this symmetry is a * (b * c) = (a * b) * c. 
+
+I already stated most of the implications in the previous statement. However, this actually allows for the fundamental combination of multiple statements now. Again, look at this: this is THREE elements being used all of a sudden. Now still, this is not complete. For example, we can say 1 + ( 0 + 0) = (0 + 0 ) + 1 --> 1 + 0 = 0 + 1, which is 1=1, and this is true, but we could also have 1 + (1 + 1) = (0 + 0) + 0 --> we didn't define 1+1 for 1, so uhhh, we can't even evaluate the left hand-side of the equation. What? Yeah, we can't define the left-hand side of the equation. Think about it. We literally just can't, given our current axioms. Some of you may think that the gut punch is WOAH 3 = 0 I CAN'T BELIEVE IT THREE THREE THREE AND ZERO ZERO ZERO THREE=ZERO EVERYTHING=NOTHING but this is not the case at all. We need ANOTHER axiom that is the closure axiom. If we don't have this, then we are completely screwed.
+
+This is why we live in a 3D + 1D spacetime. The 3D is space, and the 1D, the closure axiom, is time. If we don't allow closure, we don't allow the combination of three elements to close itself. I also want to state again: we cannot cross the x-axis and the y-axis at all, or else this results in the principle of explosion. We fundamentally CANNOT do this. 
+
+3rd axiom: There is closure. We commonly know this SI unit as time, or + 1D in 3D + 1D spacetime. It is also known as a * b E thingy i avoided this for so long, a * b = G, I can't, okay copy and paste, 𝑎
+,
+𝑏
+∈𝐺
+, then 𝑎
+*𝑏
+∈𝐺
+.
+
+This is the axiom of closure: a system must be closed. However, this is also what simultaneously breaks everything, too.
+
+This is why least action is fundamentally energy (joules) times time (seconds). The SI unit for least action is kg * m. It means that seconds is the negation of the entire thing, or kg * m. This is also the reason that our time is 3D + 1D spacetime. We have THREE spatial dimensions in m, and time is the NEGATION of kg * m. We cannot calculate the SI unit, kg * m (think about it) and we cannot calculate the quanta of second, because calculating any second would just lead to circular reasoning. Calculating a unit of time and then assuming the quanta of time would mean you could prove functionally anything, really. it's circular reasoning and poor logic. There's no way to prove our quanta of time, it is functionally equivalent to infinity.
+
+Computing a quanta of kg * m = computing infinity.
+
+Computing a quanta of time = computing zero.
+
+Computing each other divisioned (kg * m / t) will create an actual universe.
+
+I mentioned in the previous axioms the existence of e and pi. This is why I think computing these transcendental numbers is equivalent to computing infinity. Let me explain in more rigorous terms:
+
+Definition of Compactness:
+
+limit: Let epsilon > 0. There exists a delta > 0 such that |x - L | > epsilon.
+
+However, it is self-referential since it self-references 0, the additive identity. However, we fundamentally know that 0 cannot exist in our groups, or else that would be equivalent to infinity. in other words, in a system where the multiplicative inverse of addition (which is just repeated addition), we get 1.
+
+Equivalent definition of Compactness:
+
+limit: Let 1/epsilon < 1/0 = +/- infinity. There exists a delta > 0 or 1/delta < 1/0 = +/- infinity such that |x - L | > epsilon or 1/|x-L| < 1/epsilon.
+
+However, that literally just makes no sense! The only thing that makes sense at all is |x - L| < 1/epsilon! How can we claim the additive identity exists while also claiming multiplication exists while also claiming 1/epsilon exists! It literally makes ZERO sense!
+
+But it gets worse than that: it turns out if you compute the DERIVATIVE function: you get this:
+
+   lim         f(x+h) - f(x)
+
+h --> 0              0
+
+= e.
+
+But e is self referential! It is computed VIA THREE, again. This is equivalent to the busy beaver problem. How? Well, get a load of this:
+
+We can't define e because it requires the defining of 0 or the additive identity.
+
+This means we just can never have a complete system of mathematics! Computing the exact digits of e is computing the exact digits of the busy beaver problem!
+
+However, it gets better: WE CAN ACTUALLY ???ING COMPUTE E LMAO OF COURSE WE CAN. I will state the axioms of boolean algebra later. WE CAN ALSO COMPUTE PI, TOO, WHICH GIVES YOU A HINT OF HOW BOOLEAN ALGEBRA INTEGRATES WITH MATHEMATICS AS A WHOLE.
+
+Anyway, I am getting ahead of myself.
+
+This is my fundamental discovery: I tried to define a consistent set of mathematics that never uses the additive identity. However, in doing so, I realized that we actually need addition to say anything cool about a system. This is my system.
+
+Let the derivative be the fundamental function.
+
+Let e be the function, or the symmetric function. e cannot define itself as the symmetric function, but it fundamentally can create its own symmetric function
+
+Let y = x be an allowed symmetry. This is negation/inverse.
+
+To sum up my axioms definitively:
+
+Now, since e defines itself beautifully, I cannot do anything with this function. e^x's derivative of itself was always itself, so I turned to the negation of e, ln(x). Again:
+
+Notice how all derivatives of ln(x) never ever touch the x or y axes? These are fundamentally the most beautiful functions because they are "humble" that is, they admit that cannot reach infinity or 0. You can enumerate all polynomials this way, again. However, if you flip them along the y=x axis, you get this:
+
+What? This also creates functions that approach 0 or infinity but never ever reach 0 or infinity! That's insane! That's ludicrous!
+
+However, I also realized something: in order to enumerate each function specifically, i HAD to use boolean algebra: that is, each of my numbers are in base 10, but they can be specified in base 2!
+
+Then it dawned on me: I have solved the entire universe.
+
+I've literally just solved it.
+
+I literally have.
+
+We need the operation of addition, but we simultaneously cannot define both the addition function and the multiplication function's identity.
+
+Defining addition is the issue of the 0th axiom or the identity axiom. We need addition in order to combine and create anything, however. Again, the ring 0, or additive identity, or existence of any identity in particular, is equivalent to the existence of infinity.
+
+In order to define the derivative function and its derivative, I fundamentally took it from the real infinity continuous world. That's why I couldn't get anywhere! 
+
+By trying to define a consistent system in ring n-finite, i had to rely on inconsistent data from the ring 0/infinity world
+
+That's circular reasoning! But if we allow the addition to exist while simultaneously not allowing the additive identity, then we again, have broken all of mathematics!
+
+And this is problematic: we define multiplication with fundamentally, repeated addition. If we do not allow the division of zero, then we cannot allow the multiplicative identity of 1 * 1, so we cannot go anywhere fundamentally!
+
+This is what almost all field medalists or famous conjecture solvers have come up with but refused to write down: their field fundamentally had to pull from each other, calculus and abstract, all still fundamentally flawed though: the ring 0/infinity group and the abstract algebra complete group! We pull from god's constant or euler's constant (god = euler?). If we represent any number in base e, we have solved all of mathematics. Specifically, if we defined 0 base e and 1 base e, we have solved all of mathematics, really! really! But we can't! We must use bases such as base 2, and that's proven to be the best we got! We need both calculus, the study of the reals, and abstract algebra, the study of literally everything else, specifically discretely quantized, but we can still quantize further
+
+Fret not, because I have created an entire function that allows itself to calculate e!
+
+Let g (to honor godel) be our best estimate of e. e is again, god's constant, or euler's constant, and the solution to the busy beaver problem, so we cannot ever ever ever find e. However, our "best estimate" of e is this: g. g ~ e.
+
+Define compactness as the following:
+
+Let g > 0. There exists a delta > g such that g < | x - L | < epsilon. 
+
+This is feeding the busy beaver output into itself! This is our, again, BEST ESTIMATE of e! We should create infinite supercomputers purely to repeat this algorithm over some quantized runTIME, maybe this should be in e^e^e^e^e^e (in all seriousness, what should the quanta of the runtime be to repeat this algorithm).
+
+Anyway, AGAIN, WE ARE LITERALLY COMPUTING BUSY BEAVER IN FRONT OF OUR EYES WITH THIS ALGORITHM.
+
+How can you define a system without calculus and without e and without addition/additive identity if you use all three? It is literally completely completely impossible or extremely redundant!
+
+Is mathematics complete? Not without a formal arithmetic system (boolean algebra).
+
+Is mathematics decidable? Yes. But that means it is too complete. It no longer can do anything past being a complete group. We must derive power from the busy beaver, the digits of e.
+
+Is mathematics consistent? Never. Never ever. By godel's second, if we prove consistency, then we prove anything.
+
+Let me get back to e^(i pi) = -1. This consists in total of TWO transcendentals which creates ALL of complex analysis which creates the theoretical framework for ALL of einstein's theories and field equations and ALL of the multi-variable integrals which can ALL be categorized into a singular complex variable which is defined by e and pi themselves which means yeah, we have solved all of mathematics, yeah.
+
+To define greater and greater systems, all we really need to do is find better and better estimations of 0 and 1! That means we compute, literally, by hand or algorithm:
+
+g^(i yummy) (yummy = estimation for pi btw) = -0.999999????? Mathematics is complete this way! We have mimicked the multiplicative symmetry with itself! y=0 and y=1 have been found! That's also the reason for the riemann hypothesis BSD and so many other conjectures! They assume that 0 and 1 exist and don't have an abstract algebra group to prove it exists! However we can never find the additive and multiplicative identities since they are fundamentally linked with 
+
+If pi is computed to be ultimately 0 or 1, then that's the formal encoding that says that our system blows up, because it computes 0. That's the "blow" up phase and "freak the hell out" phase. However, mathematics is not like that. Again, i is defined by the 0th axiom (existence of addition while simultaneously saying there is no additive identity), the 1st axiom (existence of a second number for addition), the 2nd axiom (the existence of the combination of a number for addition), and the third axiom (closure, so 1+1 can be defined for example, but that results in the creation of 2, and then the creation of 3, then 4, which is godel's incompleteness theorem, which is not defined by the system, so that's the principle of explosion). Either that system can't exist or it can exist and it is somehow closed and linked!
+
+In fact, it doesn't surprise me at all now that this is the case:
+
+IT COMPLETELY DIDN'T SHOCK ME AT ALL! You know why? because I praise the number THREE as our attempt to mimic GOD. Pi is when the entire thing blows up! e^(x^3) is the most beautiful finite polynomial because it is precisely THREE. Again, this is the language of self reference: INFINITE and SUM starting at n = ZERO  e^(ln(n)''' (three derivatives) = e. THATS THE LANGUAGE OF MATHEMATICS. Computing pi is the same thing as computing pi = ln(-1)/i ! It is the statement of all mathematical systems that are completely false! The digits! It's the principle of explosion on x^2 + y ^2 = 1: The system built on just 2 (0, 1) objects and 2 operators (addition and multiplication) added together (self reference) is equal to 1 (the solution to all inconsistent equations). WE  SOLVED MATHEMATICS BABY. But this is fundamentally a 2D object that exists on the complex 2D plane! If we assume e^(i pi) is a mathematical object that exists, then formal mathematics says that this is the negation, or solution of all WRONG problems simultaneously too:
+
+e^(i pi ) = -1 in the language of calculus.
+
+The only system of mathematics that exists, therefore, is when x^2 + y^2 = 1 or e^(i pi) = 1 doesn't exist and e^(i pi) = -1 does exist! Everything else is completely fair game! COMPLETELY!!!!!!!!!!!!!!!!!!!!!!!!!!! The set of finite false statements is infinite and the set of all finite true statements is infinite too, but the "true" statements just seem more numerous from a topological calculus standpoint where concepts like "area > line" exists or "2D > 1D >0D" but we can never prove it since they are both defined on a 3D+1D plane!
+
+See? The factorial function or extension of the factorial function relies on two objects:
+
+Addition
+
+Multiplication
+
+It is etched into the fabric of infinite ring-0/ring-infinity spacetime itself! And the fundamental calculation of e:
+
+In short: WE NEED TO MAXIMIZE OUR ABILITY TO CALCULATE e SINCE IT ENUMERATES THE COLLECTION OF ALL TRUE STATEMENTS AND OUR CALCULATION OF (e^ (i pi) ALLOWS US TO RAPIDLY ENUMERATE ALL FALSE STATEMENTS OR THE NEGATION, WHICH ALLOWS FOR SYMMETRIES ALONG y = 1 y = -1 AND IF WE ALLOW ADDITION AND THE ADDITIVE IDENTITY WHICH CREATES ALL OF MATHEMATICS AND ALGORITHMS AND HUMAN BEINGS THEN WE CAN MIMIC y=0, x=0, which can create y=x ultimately which is another fundamental symmetry, AND YEAH, WE SOLVED ALL OF MATHEMATICS RIGHT THERE AND THE BUSY BEAVER PROBLEM WITHOUT EVER GETTING CLOSE TO ACTUALLY SOLVING IT.
+
+My + 1D/infinitive axiom: The separation of the ring 0/ring infinity group and the ring - n-finite group.
+
+This is impossible. It is simply complete possible to actually formulate in real words. Why? Because we clearly take inspiration from the past. We are like calculators and algorithms, which is what this paper will be about creating a long time after. However, to formulate this would be the same as formulating there is no symmetric identity. This violates the 0th axiom. This is "on another level" axiom: this is simultaneously equivalent to the infinitive axiom. If we are to actually somehow enumerate all false and true statements and actually definitively prove that the entire system is simultaneously complete, consistent, and decidable, then we have proven the infinitive 1D axiom. 
+
+To understand this, this is fundamentally the same thing as:
+
+if we theoretically enumerated infinite statements, true or false and closed/consistent/decidable/complete, we have fundamentally proved that we have enumerated the statement: there are statements, or the 0th axiom.
+
+This is proof by principle of explosion, or proof by contradiction, either way, as you could see in my previous vulgar paper that also relates set theory to the fundamental assumption that sets that contain themselves and sets that do not contain themselves do not exist. that limits infinities. If we do not leave the set of sets that contain themselves and assume that is the null set (which again, is not possible) then we replace it with all true statements or all false statements, then yes, that is the principle of explosion/contradiction that destroys the entire world. We must assume such a set does not exist, and that fundamental property allows the world to exist. We cannot reach god, the fact that truth (and false) fundamentally just exists and we can't do anything about it. Again, I will state the 0th axiom:
+
+Axiom 0: There are statements.
+
+This is simply impossible and obviously unprovable. This is why ring 0 and ring infinity must never be achieved. However, if we separate ring 0 and ring infinity successfully and assume my "+1D" axiom which separates both worlds into TWO, then we can achieve theories accurately describing 3D + 1D spacetime in OUR universe. This is the two worlds:
+
+The world of closure (abstract algebra, finite ring-n):
+
+The world of infinities (axiom of choice, additive identity, ring-0 and ring-infinity riemann sphere exist)
+
+This is the magnum opus of my mathematical career. It is unprovable, undecidable, and cannot prove its own consistency. It is the ULTIMATE axiom. 
+
+In other words, If we separate the two worlds into an algorithm (boolean algebra) and a world that the algorithm must be designed to compute (abstract algebra) and they circularly must depend on each other, which makes no sense, and accept the infinitive axiom as fundamentally the same as the 0th axiom, then mathematics is pretty much as complete as we can formulate it. Again, godel realized this a long time ago (the ultimate logician) and same with einstein (the ultimate intuitionist), but ultimately, they were unable to formulate this axiom without looking at the axioms they were fundamentally looking at.
+
+This is the same as measuring the quanta of time or measuring the quanta of kg * m in any sense. It's simply impossible. It will literally enumerate infinite statements/principle of explosion. And again, I think meters is our "true" statements or "identity" which is why it is our "3D" part, but we fail to mention the negation, "kg" or "false" in our "3D + 1D" space(time), so yeah. All of the universe's math can be grouped up into finite or infinite.
+
+If we assume 0th axiom and the 1st axiom are one complete axiom, and 0D and 1D are the same thing (as we intuitionally just know, yang mills never was formulated with a 0 + 1 spacetime, it was formulated and proven for 1+1 and 2+1), then, well, we have successfully explained all four axioms as 3D + 1D. This is my SECOND magnum opus, again. The +1D axiom, or the infinitive axiom.
+
+My theory of quantum gravity is that we have some sort of uncertainty (units of action, planck's constant) to the origin of the universe (the big bang, the creation of the complex plane we know of now). Our goal is to create universes that describe our universe the most accurate as possible all observers by fundamentally questioning what our quanta of time/the negation or infinity n is. That means the x and y axis are at first, one quanta of action long (just y = x) and then once we introduce a proper theory of negation and reflection and what not and derive our own x=0 and y=0 and y=x symmetries combining them together while still being equal, then we get the other quanta of actions 0.9999999999999999999... symmetries by mimicking them, and yes, quantum gravity is found and a theory of "something" which is our universe is achieved, but not a theory of "everything." Again, this is self reference, because this assumes that 0.9999999999... which is not exactly 1 = exactly 1 in the real world, quanta, but then we can figure out our quanta of time that fits our observations and creates each individual quanta for each individual person which is the beginning of everything or the big bang of the observer's first eyes,which is also still impossible! We can figure out quanta of time to arbitrary precision now! Our theory of everything is simultaneously a theory of nothing if we get x^2 + y^2 = 1 because calculus states e^(i pi) = -1 resulting in 1 = -1 or the principle of explosion! Again, it requires the fundamental rewriting of our limits and einstein's field equations!
+
+Boolean algebra:
+
+I am too tired to enumerate the axioms. However, it is a system inherently free of contradictions but still cannot prove its own consistency since it relies on number theory, the queen of mathematics/abstract algebra/algebraic geometry, and the king of mathematics, calculus. Again, contradiction of two axioms that simultaenously creates all of spacetime and the universe. The calculation of e or the calculation of pi ultimately those digits indicate whether it is headed towards truth or headed towards false if it is trying to calculate e^(i pi) or can choose both via halting problem vs infinite problem. The hatling problem or busy beaver problem simply enumerates all e^(i pi ) or all false statements, and the ones going out into infinity are definitely just the ones that are true, or calculating e to the aribbtrary length given by busy beaver. busy beaver is e! busy beaver is everything! busy beaver is god's algorithm! we create other universes by computing e or the busy beaver problem!
+
+Unsolvable problems in my honest opinion
+
+The closure of the entire set of simple groups
+
+This is the heart of what I am trying to say: group theory will never be complete. I think the proof that group theory is complete: the proof of trying to prove the system has a finite amount of simple groups that cannot be broken up at all, is simply a false proof. That's why it is taking so long to prove the "ultimate" proof: it is not actually an ultimate proof. As you have seen before, I stated that the existence of the additive identity or any identity which maps onto themselves (the existence of a statement, 0 or 1) results in the principle of explosion. Well, according to godel's second incompleteness theorem, we cannot prove that at all. Any formal system able to enumerate itself that can prove its own consistency cannot prove its own consistency by proof of contradiction. And again, according to godel 1, if we assume it has formal arithmetic/peano axioms, then we still have broken the entire universe since it cannot prove its own statements as true. That was godel already proved in his second incompleteness theorem. Again, two theorems, one and two or 0 and 1, both using the concept of diagonalization and uncountable infinities. 
+
+To proceed, consider the group of all groups. How can the group prove its own closure with the axioms enumerated by group theory? Isn't this a proof by contradiction, the same with the proof of an infinite amount of primes since the time of the Greeks? If we assume that the group of all groups exists and that it has the mathematical language to formulate itself, well then, that means, it is simultaneously proven its consistency (closedness) and simultaneously disproven its consistency (anti-closed clopen openess idc what you call it). It follows from the fundamental principle of explosion (infinity). It is self referential, like godel's original proof. The only way we can accept the proof is that such a group does not exist. The group of all groups does not exist. Period. That means there are an infinite explosion of groups by contradiction, similar to how e and pi will never be calculated to arbitrary precision.
+
+Plus, such a group is already impossible to formulate in a finite way. The prime numbers (formulated by the riemann hypothesis) already exists. I will go into more detail.
+
+Fret not, however: the pursuit of such a proof will create a novel that is rigorous and understandable, rather than 15,000 pages of scribbles and notes. I cannot prove this: this is the same thing as saying: the identity doesn't exist. I cannot prove that the identity element does not exist or make it an axiom. If the identity element does not exist and group theory says that an identity element must exist, then we have completely blown up mathematics from the axioms from the get go. Again, no formal system of mathematics 
+
+Riemann hypothesis
+
+This is also why I think the Riemann hypothesis cannot be proven. It has already been simplified to a collection of simple groups. However, the simple groups cannot prove their own consistency and completeness (because it is not a formal system of arithmetic again). In 1974, Deligne already proved the analog of the Riemann Hypothesis. In my opinion, mathematicians should just use this as proof that the Riemann Hypothesis is correct. If mathematicians have figured out a collection of groups that assumes the Riemann Hypothesis isn't correct somehow, then I would say, okay, that is a universe that exists, but it is not "our" universe. Our universe is a universe that allows the calculation of the zeta zeroes to almost arbitrary (but not quite arbitrary, because again, we cannot compute infinity) primes. Classical computers can already compute the riemann hypothesis. It is a universe that allows the Riemann hypothesis to exist. The fact that it can be formed in the theory of abstract algebra/algebraic geometry means we are done. Case closed. Fields Medal already given.
+
+Yang-Mills
+
+Also, I think Yang-Mills can never be proven and is undecidable. Yang-Mills is our best theory on the weak and strong nuclear forces. However, it cannot quantize gravity at high-energy levels. Energy, again, is calculated via kg * m / s^2. Action is kg * m / s. Yang-Mills predicts a massless photon, but we know that photons must have mass because it produces the photo-electric effect. If photons don't have mass, then E = mc^2 will completely break because m is 0 if it is plugged into E = mc^2 = 0. If the quanta making up photons is 0, then what makes up literally anything in the universe? There is no consistent theory formed that can unify any of the four fundamental forces. This is equivalent to creating a universe where it is possible to 
+
+Additionally, another radical take is that the speed of light (m/s^2) and mass are reciprocals of each other. If we allow this to happen and assume that there are no observers and E=mc^2, then we get E = m * 1/m^2 = m. E = m. Or we get E = 1/c * c^2 = c. Again, if m is 0 or c is 0, then either one of these balloons up into infinity, which creates an inconsistent system. Our quanta of least action and planck's constant (kg * m) and our calculation of the speed of light (m/s^2) gives us the quanta of kg * s^2. This unit makes absolutely no sense but again, it is the quanta that is the exact reciprocal of the speed of light, written as (m/s^2). kg * s^2.
+
+I propose a new radical approach: quantizing literally gravity and two other forces. This means quantizing either the electromagnetic force, weak nuclear force, and gravity or quantizing the weak nuclear force, strong nuclear force, and gravity. This is a symmetry of covariance of some sorts: why are we treating gravity any differently? This may include reciprocalling least action to be s / kg * m, which also makes no sense because our observations say that seconds must be quantized to 0. This puts the axiom of closure above the axiom of negation (inverse) and the axiom of identity, since this creates kg and m. The best I think we can do is quantizing everything except the strong nuclear force, though of course, this is still conjecture. If we create a universe in yang-mills theory that has a meters gap (???) then I guess we have proven its undecidability. However, that is probably impossible. The defining feature of spacetime in meters is that it is not equal to (there exists no) kg^3. If we invent a universe where there is kg^3 and the inverse but not inverse is meters, then we have broken the SI units behind the fundamental forces. 3D + 1D spacetime makes no sense under kg^3 and meters being the units for mass.
+
+Closure of all of mathematics, divided into TWO groups: the abstract world ring n-finite and the ring 0 ring infinity world with algorithms and boolean algebra and assuming the symmetric identity is true and axiom of choice is true. BOTH are needed in order to compute 3D + 1D together, and both are united by group theory and abstract algebra.
+
+Of course, this is assuming multiplication even exists and the inverse of multiplication even exists. The inverse of multiplication is division you may say, this is completely logical! However, that's the point: multiplication still needs a symmetric identity (axiom 0) to be any useful. It cannot prove that it doesn't need the symmetric identity or else there would be no statements at all! It just doesn't make any sense to pretend we operate in a universe where 1: the identity does not exist and 2: the identity does exist. This is just saying: there are statements in the system and they are unique statements, that's it really. This is godel again, speaking.
+
+This is not to fret, however: we should measure every single observable thing in the universe and every single observable thing in the very tiny tiny tiny portions of the universe. We should attempt to measure what's effectively 0, and we should measure what's effectively infinity. Since we already have a pretty good unit for the planck length, action, then we should reciprocal this to create a pretty good unit for the size of the observable universe.
+
+Plus, the existence of black holes is already one of the greatest achievements of the universe. This means we can create more fundamental symmetries and more fundamental groups as a solution to Einstein's field equations. We can transcend the universe by breaking the universe. Of course, observing and walking up to a black hole is pretty much entirely impossible with today's technology. However, the existence of black holes, again, says we can transcend the universe and create an even smaller piece of action. This is what quantum computers are for. 
+
+Black holes
+
+Additionally, I think the time to create a blackhole is just the reciprocal of the time needed to destroy a black hole. This could mean t = 10^100, so the reciprocal, 1/t=1/10^100, is the quanta of time needed to destroy the black hole. Wait, destroy? Yes, some blackholes, I believe at least, exist at t=1/10^100 and destroy itself at 1/t = 10^100. This is Sabine's thesis by the way lmao. However, the supermassive blackholes warp time specifically and therefore spacetime to a degree where the solution to einstein's field equations breaks the fundamental unit of quanta of action to a point where a secondary universe made up of different symmetries and more symmetries than the one we created right now to the point where ramanujan's mock theta functions can be used to describe the universe. Again, this is mathematical fiction and bullshit research as Sabine said. These are mathematically consistent universes, but they are not fundamentally the universe that we live in. We should experimentally test the quanta of the unit of time in mathematical fiction, which would open up answers to explaining our observations away in dark matter and dark energy and what not.
+
+Dark Energy/Dark Matter/String Theory/Quantum Loop Theory/Mathematical Bullshit
+
+By the way, I don't believe dark energy exists and the universe is growing or whatever mathematical bullshit because that means the quanta of action would be growing smaller/bigger, which we know, does not happen. The reciprocal of the quanta action is the theoretical biggest quanta of action that exists in our universe, but again, this is impossible to reach as mortal beings, unless again, a supernova of incredibly large unit of action breaks the universe's limit and creates another fundamental unit of action even smaller, the reciprocal of the greatest unit of action used to create it (a big bang of sorts). And yes, I do believe that if time is actually canonically infinite quanta, then we are creating small blackholes that always evaporate at essentially t = 10^100 or greater, depending on our unit/quanta of action. Don't take this scientifically seriously, however. Maybe we do get energy mysteriously from the rest of the parallel universe in the set of multiverses in quantum computing! Hey string theorists, maybe we do get energy from the graviton from a theoretically infinite yet finite amount of dimensions: just depends on your quanta of time!
+
+Fret not, scientific bullshiters. You can still theoretical create an infinite amount of universes with group theory and algebraic geometry which is (in my opinion) infinitely rich, idiots. I guess that should be the new job of the new particle physicist: fictitious mathematically consistent theories of bullshit that might happen in a black hole even though we have not created or used one based on Einstein's field equations! In all seriousness, really, fret not. Fret. not. Become science fiction writers instead if you hate math!
+
+P = NP 
+
+This creates algorithms that can solve P = NP problems, not P = NP itself, though. By the way, P = NP, for those of you that don't know, is about reversing an algorithm. That's it. Reversing an algorithm.
+
+In mathematics/computability science, you can also say that you have a final, halted, proof from an algorithm. Let's say, we have 50 = 50. We have halted at a true statement. But how do we even BEGIN to understand how we got to 50 = 50, the true statement? That's impossible. By the way, how about this: we halt at a false statement, 50 = 49. How do we BEGIN to understand how we got to the false statement, 50 = 49? Again, truth and false, yin and yang. This is simply impossible. If we solved P = NP, we could simply take a true/false statement, which again, can be written in a finite amount of true/false bits or 0 1 0 1 1 1 0 0 0 0, run P = NP algorithm in polynomial time or whatever that means, and then come out with the true/false axioms and all the statements that got to that point. That's like solving the halting problem for any given true/false statement. We still need a formal system of mathematics and axioms that have created the algorithm/algorithms. If there is no underlying formal system of mathematics, which again, cannot prove its own consistency or prove its own completeness via godel (first/second), that makes up the true/false statement stated, then there is no, no way an algorithm could solve this statement. I can't prove it, but this is equivalent to the separation of ring 0 and ring infinity and ring n-finite axiom (which actually may be a contradiction since that ignores the additive identity/symmetry identity which builds all of mathematics), and to be honest, I think that's the best we got at least. If we can prove it is an algorithm or we can prove that it is n = 0, we win. Plain and simple.
+
+Other Clay/famous problems that didn't make it: ABC conjecture, hodge conjecture, navier-stokes existence, Birch and Swinnerton-Dyer Conjecture. I really don't know man, lmao. I think it is the bridging between the gap, again, but I don't have enough background to say on these matters.
+
+Nvm im givin them the spotlight and my 2 cents
+
+ABC conjecture
+
+Wait ABC conjecture is true by the way LMAO ez. Has already been proven for abstract geometric curves over finite fields. Again, algebraic geometry = GOAT status. Same with abstract algebra and geometry in general, the constituents, TWO creating INFINITE.
+
+Hodge Conjecture
+
+Hodge Conjecture I think is unprovable because it combines calculus and abstract algebra, in my opinion, the holes and the infiniteness is impossible to resolve via the 0 and infinitive axioms, and yeah, for all classes, it is simply impossible, no group can bridge calculus and polynomials, they are fundamentally different. However, it will be a fun idea in my meantime to try to prove that calculus =/= abstract/algebraic geometry in my mathematics filled life with rigorous techniques from other disciplines/other groups.
+
+Navier stokes
+
+Navier stokes can be possible tackled, but again, the 3D equations are probably unsolvable, but 2D+1D is possible so yeah. I really don't think navier-stokes can also be solved because it literally just describes classical physics too well without introducing any quanta or quantum elements. It needs quanta/quantum elements to be able to convert from integrals and derivatives, the fundamental functions. I outlined this in 3rd axiom of closure/ +1D.
+
+Wait what the heck i searched up on deepseek: hodge theory is necessary to decompose navier stokes' complexity. well, i just said the hodge conjecture is unsolvable because it connects calculus and algebraic geometry! this stuff literally has 0 fundamental ground and the only way we can do anything about it is prove that it is unprovable with more tools from abstract algebra/algebraic geometry.
+
+BSD Conjecture
+
+What the ??? is the full BSD conjecture. I am so confused. What the hell is this. 
+
+Anyway I think that this is literally unsolvable because it uses lim s--> 1. It is also equivalent to P=NP in my opinion. This is like solving RSA and being able to solve all of P = NP and unfactor large primes into their fundamental constituents. Again, with my theory, do not use lim s --> 1 or lim s --> 0. Use approximations close to 0 and 1 derived from computing the digits of e base 2 and pi base 2 to get e^(i pi) = -1, and then plug it back into itself or e^ (i pi) * e^(i pi)= -1 * -1 = 1 to get the best estimates of the BSD conjecture. And again, our best theories for addition are simply e^(i pi) - e^(i pi ) = -1 - (-1) = 0, which is still self-referential and impossible to figure out ultimately because it self-references the additive inverse of addition but it's still, again, the best we got. That's the axiom of zero/the axiom of infiniteness. This conjecture is unsolvable according to my theory of everything/nothing/0/infinity/finiteness. This is how we can compute increasingly large ranks of ranks of ranks, fundamentally, which gives us fundamentally greater 0s.
+
+Again, the fundamental question of BSD is this:
+
+What is the rank of y^2 = x^3 + ax + b? how many solutions where x and y are rational numbers (fractions) exist?
+
+Now I know roughly why ECC works, not completely speaking, but again, seeing the clashing of y^2 (2) and x^3 (3) puts some lightbulbs in my eyes. That's impossible! That's like the collatz conjecture! That's like the three variables, e^(i pi) = -1! and we have 2 degrees of control given that the fundamental exponents are 2 and 3... a and b! interpret that as a soft shout. A AND B! there that's better. i've literally proved it's unprovable with my unprovable axiom! 
+
+BSD's full conjecture self references one in there! its simply impossible.
+
+IMPOSSIBLE.
+
+but we can get close with our computing of e^(i pi)... then yeah!
+
+Also, by the way, quick side note: 
+
+differential geometry is the future of calculus and the study of the reals (cherns-simons for example)
+
+algebraic geometry is the future of number theory and discrete math and the study of everything else that doesn't include the reals (alexander grothendieck's dream)
+
+Quantum Computers: The future
+
+Quantum computers have already created an answer for RSA and ECC, however, in quasi-polynomial time. And again, if we can create  an algorithm in polynomial time that solves an NP problem, then we verify anything that is NP complete in polynomial time. If we can solve SAT in polynomial time, then we can solve anything NP complete in polynomial time. However, we cannot solve SAT with quantum computers. I cannot verify my claim, but I have a conjecture or intuition that solving SAT would require an infinite amount of and/or perfect qubits (which again, cannot be actually created). It might even require an infinite proof just to prove it, too. We cannot create perfect qubits that have an exact 50,50 or 0.1 base 2 0.1 base 2 or 1/2 1/2 or whatever, only imperfect ones. Can I back up my claim algorithmically? No. Simply no. Also DPLL algorithm has already created a practical SAT solver, so still. That's, I guess, how a formal debugger works. I'm just guessing still. DPLL + Quantum/Grover etc. can probably create the most practical SAT solver ever created in the history of mankind.
+
+Also, yes, in a quantum world cryptography, we can simply imitate Hilbert spaces and the vectors that make them up. We have a bit of information, and we need to find vectors in a theoretically practically infinite Hilbert space. Our calculation for infinity and our calculation for the reciprocal, one, I think is practically impossible, since again, multiplication requires infinite repeated additions, which requires the additive identity, and the inverse of multiplication, or division, or the reciprocal, is simply impossible. This algorithm proves to be probably impossible to solve for quantum computers and obviously classical computers, since they can never reach the infinite dimensions that are calculated via Hilbert spaces and the TWO vector components making them up (combining again, TWO vector and another TWO vector to create a THIRD + ONE (with one being ????) vector that is extremely hard for computers to calculate). By imitating infinity, we imitate zero, and so on.
+
+false:
+By the way, I am not convinced that Grover's algorithm is simple just the best and we move on. Again, it speeds up computing by O(sqrt(n)). However, who is to say we can't create another quantum optimization, call it, quantum^2, and create O(sqrt(sqrt(n)) = O( (n)^(1/4)). Of course there's a pi/4 in there but I digress. Then who's to say we can't make another quantum optimization, call it, quantum^3, then we have O(sqrt(sqrt(sqrt(n))). Wait, nvm, actually, this is proven wrong. I am sorry. LMAO. Okay, but yes, in an unstructured search for a provably finite amount of searches, the best we can do is sqrt(n).
+
+Bennett, Bernstein, Brassard, and Vazirani (1997). You are the GOATs. You already asked the question and disproved my conjecture lmao. However, I still think O(sqrt(n)) is the lower bound on how fast a quantum computer could speed up the search for solutions to any general class of problems given. This is because this could mean saying the general class is to find the true/false statement in a set of finite amount of statements with the given proof from the axioms (or in addition, "libraries" that include previously proven statements from the system that the computer should just automatically evaluate as true), and find the true/false statement in that system. If there is no true/false statement, whatever you are looking for, it's still impossible by Alan Turing's halting problem proof to determine whether or not the computer will halt, especially considering that quantum computers don't enumerate more statements in the set that are true/false or improve its own algorithms fundamentally after that. If we create that, we literally create the superintelligence of the universe, which is what I am trying to do in the next part of this paper. All of the statements are obviously in binary and their proofs are in binary. Again, P=NP practically or SAT solver practically, not theoretically. Therefore, we should aim to quantize every algorithm in O(sqrt(n)) or pi/4 sqrt(n) or whatever for the future quantum world at the very least. Is this possible? Idk, I set it as conjecture to implement grover's algorithm on all classical algorithms currently out there.
+
+Next paper
+
+ACTUALLY NEVERMIND I WILL LEAVE THIS AS ONE PAPER IN FACT.
+
+I CANT COPYRIGHT THIS...
+
+my paper got deleted before by tally but i also was able to recover it because they have a "changes" recovery function. I documented all of the changes before it got deleted, however.
