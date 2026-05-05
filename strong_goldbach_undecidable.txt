@@ -57,6 +57,7 @@ However, we haven't. And again, the perfect qubit is impossible since that deman
 
 Again, all of spacetime 3D+1D can be formed if we solve e or pi to aribtary precision. However, again, it requires the existance of two halting problems. TWO. Something about two and three and BSD conjecture man, REALLY! e and pi can both be plugged into the turing machine. That basically goes into overdrive, I feel like they're both the opposite ends of the turing machine, and/or negations so you can literally compute both ends but you cannot compute the middle, which doesn't give you a good BB.
 
+also i cannot prove so it is conjecture: when BB is given a transcendental infinite set of tape, it starts computing all possible transcedentals from that tape, which is computing all of 3D + 1D space time while simultaneously also not being able to compute 3D + 1D spacetime because it is a 2D + 1D spacetime object. By computing 2D + 1D spacetime to the infinity and/or assuming trascedentals exist, then we mimic the 3D + 1D spacetime in a 2D (complex) plane. :)
 
 
 
