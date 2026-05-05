@@ -1,0 +1,65 @@
+two prime conjecture, two prime conjecture
+
+heyyyyyyyyyyyyyyyyyyyyy, the two prime conjecture.
+
+Two primes, p + 2... I just don't like even numbers.
+
+Why?
+
+Well remember the riemann zeta function? it's on the complex plane and says there are infinite zeroes on 1/2.
+
+However, again, the riemann zeta function is on the complex plane, so you must define and solve e to a good arbitrary precision.
+
+However, even if you solve e, you must compute 0.1 base 2 or 1/10 base 2 to arbitrary precision, so again, the riemann zeta function needs to have e calculated so well or the busy beaver that the group of statements and proofs that arise from the halted BB function have given you the Riemann zeta function.
+
+Again, the riemann zeta function sort of relies on base 2, which is why it is its own abstract algebra group again.
+
+Now the twin prime conjecture says there are two.
+
+p + 2 = p... hmmm... do you see why I think this is the strong goldbach conjecture all over again?
+
+If it takes "2" or 10 base 2 which can't be in base e to calculate the riemann zeta function, then, well
+
+0 + 0 = 0
+
+0 + 1 = 1
+
+1 + 0 = 1
+
+1 + 1 = 10 base 2
+
+You have resulted in the principle of explosion, or an infinite amount of groups.
+
+x^2 + y^2 =/= 1 is a fundamental limit in the 3D + 1D plane. You CANNOT have x^2 + y^2
+
+In the 3D + 1D plane, again, you must have quanta, and e and pi cannot be transcendental, they must be finite, which determines BB of your algebraic group on that complex functioned surface.
+
+Source: Deepseek
+
+✨ Conditional Results: A Glimpse of What's Possible
+
+Better bounds can be proven if we assume unproven conjectures about prime distribution. This highlights the gap between what we know and what we believe is true.
+
+    Assuming the Elliott-Halberstam Conjecture: This conjecture assumes a more powerful theorem about prime distribution. If it holds, Maynard has shown the bound can be reduced to 12.
+
+    Assuming the "Generalized Elliott-Halberstam Conjecture": Taking the assumption a step further, Maynard and Tao have proved that the bound can be as low as 6, and that there would be infinitely many prime pairs with a difference of at most 6. This is tantalizingly close to the final goal of 2.
+
+
+Yes, I believe Maynard and Tao's conjecture
+
+The difference at most can be 6. 2* 3 = 6. SIX is just a nice number, just like 6 and 6 + 1.
+
+If the prime distribution is truly 6, then we have achieved enlightenment. Otherwise, I think it is a waste of time to pursue the twin prime conjecture because it results in x^2+y^2=1, an unprovable statement.
+
+I am going on LENGTHS of intuition right now lol.
+
+
+
+
+to sum up:
+tetration is useless and impossible we never use tetration, calculating strong goldbach and twin prime is like using tetration, no one gives a shit about 4D + 1D spacetime LOL.
+
+
+
+
+
