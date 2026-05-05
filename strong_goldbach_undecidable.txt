@@ -32,9 +32,9 @@ If we assume it works, and we ask the question, hey there are the combination of
 
 Well, you get something similar to the goldbach conjecture where there's no error function. You only have two elements, is the problem.
 
-If Riemann can be solved with triangles, that's like putting two triangles together and saying: does my new triangle have an even amount of sides?
+If Riemann can be solved with triangles, that's like putting two triangles together and saying: does my new triangle have an odd (edit i said even before) amount of sides?
 
-The algebraic group fundamentally has to be in the form e^(x^3) in the end!!! There must three, not two, no more, no less. okay maybe more lmao.
+The algebraic group fundamentally has to be in the form e^(x^3n) where n =/= 0 in the end!!! There must three, not two, no more, no less. okay maybe more lmao.
 
 0 + 0 = 0
 
