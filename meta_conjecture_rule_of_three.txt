@@ -1,0 +1,40 @@
+This is the most meta conjecture ever created, after my musings on "undecidable" conjectures such as collatz, strong goldbach, twin prime, e^1 = e^(-1) = 1 = -1, godel, and more.
+
+In order for a conjecture to be able to be a "simplified" it must have three degrees of control of three abstract algebra groups that have already been created.
+
+In computer science terms, there must be three distinct "conditions" in order for a program to decidably halt or infinity. (influenced by musings on collatz, unproven).
+
+This is like e, pi, and i simultaneously being defined at the same time.
+
+If it only has two measures of control on already known abstract algebra groups, then it is impossible.
+
+Why?
+
+It all ties into the axiom of associativity:
+
+a * (b * c) = (a * b) * c.
+
+There are three statements, and they all compute each other.
+
+You must find the new abstract algebra group is closed.
+
+It is a "meta" sort of guess of a conjectures' decidability. Instead, you can see a, b, and c as "sets" of a group.
+
+Therefore, something like the weak goldbach conjecture is just a question of:
+
+Riemann zeta abstract group * (riemann zeta abstract troup * yeah) = (yeah * yeah) * yeah.
+
+yeah.
+
+anyway, then you try to guess the group that's (yeah * yeah) * yeah and prove equality of the group yeah * (yeah * yeah), then mathematicians treat that as a rigorous proof.
+
+again, it's not necessarily saying it's closured. that would take like 1235182357913 years. you just need to prove equality as a meta set of abstract group theory groups.
+
+none of mathematics is closed if the statement: there is statements. exists as proven in my documents.txt file.
+
+This does not result in the principle of explosion since again, it is three, algebraic geometry, e^(x^3n).
+
+You also can't REALLY find a formal system of mathematics that guarantees that all statements enumerated in the "meta" group will give you the "group."
+
+Riemann hypothesis can only be solved with BB(744), yet we assume the riemann hypothesis abstract group exists according to my theory. That's the busy beaver that formulates all statements in the riemann hypothesis in its theory, though probably 93810375189375891378913785917358917385 other unsolved problems would show up.
+
