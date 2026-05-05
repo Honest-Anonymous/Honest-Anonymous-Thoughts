@@ -49,7 +49,13 @@ Or both of them are true. This creates another group, (1 + 1 = 10 base 2), which
 
 I don't think any algebraic group can solve the strong goldbach conjecture, because it combines two abstract algebra groups from the Riemann hypothesis to create another group.
 
-This is why 
+There are many hungry redditor mathematicians hungry for fame and the truth. I want my words to speak for themselves. If someone wants to figure out my identity, sure, go ahead. I don't care about fame or money. I want the money from the clay institute to go to math educators. I want to make more than that, like JIM SIMONS THE GOAT AND STONY BROOK THE GOAT YAY YAY YAY anyway, what I was saying...
+
+I think one of my magnum opus proofs, however, is the undecidability of the collatz conjecture putting transcendentals into the turing machine and computing them in base 3. Again, if we have consistent formal set of mathematics that has in total, THREE operators (calculus, THREE) which can do boolean algebra or more, then we have solved P = NP, hodge, yang mills, etc. etc.
+
+However, we haven't. And again, the perfect qubit is impossible since that demands the arbitrary decision of 10 base 2 in a world where we either have the transcendentals (calculus) or we don't (infinite/finite algebraic simple groups).
+
+Again, all of spacetime 3D+1D can be formed if we solve e or pi to aribtary precision. However, again, it requires the existance of two halting problems. TWO. Something about two and three and BSD conjecture man, REALLY! e and pi can both be plugged into the turing machine. That basically goes into overdrive, I feel like they're both the opposite ends of the turing machine, and/or negations so you can literally compute both ends but you cannot compute the middle, which doesn't give you a good BB.
 
 
 
