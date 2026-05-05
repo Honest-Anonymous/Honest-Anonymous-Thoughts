@@ -1,0 +1,70 @@
+In my opinion, the strong goldbach conjecture is undecidable. I have seen some terrible, terrible reddit proofs online.
+
+Of course, I am also an amatuer and you may know me as a lot younger than you may expect me to be.
+
+According to Deepseek's searches:
+✨ The Quest for Improvement
+
+The story doesn't end there. Researchers are competing to construct smaller and smaller machines that exhibit this same “Goldbach-oracle” behavior.
+
+    The Record: The original 27-state machine has since been improved upon.
+
+    An Unpublished Claim: There is a claim that a machine with just 15 states and 2 symbols can also test Goldbach. This is a significant reduction in size.
+
+    What stands proven? While the claim references an improvement to BB(27) and there is a proven 4,888-state machine, a peer-reviewed paper currently confirms that determining BB(15) is "at least as hard as solving Goldbach's conjecture".
+
+
+Why?
+
+Well, again, let's see the fundamental equation that can never exist in a system:
+
+x^2 + y^2 = 1.
+
+Okay. Well. What does this have to with anything?
+
+Well, let's say x and y are both primes. They belong into the Riemann zeta function group then, or U(1).
+ 
+It's impossible to prove though! Again, to prove x and y are prime, we need to invoke the groups that make up the Riemann zeta function or something along the lines of 1/x! or one over infinity to zero integral e^(x^3) or something.
+
+Anyway, as I said before, there's no way to prove this group exists in ZFC + axiom of choice, but it just works.
+
+If we assume it works, and we ask the question, hey there are the combination of two abstract algebra groups that are identical to each other with true or false states 0 and 1.
+
+Well, you get something similar to the goldbach conjecture where there's no error function. You only have two elements, is the problem.
+
+If Riemann can be solved with triangles, that's like putting two triangles together and saying: does my new triangle have an even amount of sides?
+
+The algebraic group fundamentally has to be in the form e^(x^3) in the end!!! There must three, not two, no more, no less. okay maybe more lmao.
+
+0 + 0 = 0
+
+0 + 1 = 1
+
+1 + 0 = 1
+
+1 + 1 = ... ????? 
+So either you spin the lottery and get both primes are 0 (0 + 0 = 0) or you spin the lottery and get one prime is true and the other is false (0 + 1 = 1)
+
+Or both of them are true. This creates another group, (1 + 1 = 10 base 2), which again, reduces to the principle of explosion or the hodge conjecture whatever you want to call it.
+
+I don't think any algebraic group can solve the strong goldbach conjecture, because it combines two abstract algebra groups from the Riemann hypothesis to create another group.
+
+This is why 
+
+
+
+
+However, still...
+
+The weak goldbach has already been proven, and I credit the LEGENDARY mathematician, GH hardy... and Littlewood and Ramanujan.
+
+As a fun exercise I will create the energy matrix from heisenberg's equations into a collection of infinite sums and infinite multiplications to show you guys how absurd it is to assume infinite-dimension hilbert spaces is our universe.
+This might've been how ramanujan found his answers lol.
+
+The goldbach conjecture only has two primes. It's simply unprovable.
+
+I'm also looking at the state machines, and they are all multiples of three. Bad, bad, bad.
+
+Multiples of three scream undecidability for me.
+
+Also, the Riemann hypothesis can be calculated via BB(744). That's also, uhhh, a multiple of three, sorry to say.
